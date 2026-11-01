@@ -1,0 +1,18 @@
+# Byte-compiled files and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Packaging output
+build/
+dist/
+*.egg-info/
+
+# Authoring scratch: gifs being tried out, definitions not yet exported
+scratch/
